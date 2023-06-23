@@ -1,5 +1,5 @@
 import { DataSource } from 'typeorm';
-import { Property } from './entities';
+import { Property }   from './entities';
 
 const AppDataSource = new DataSource({
   logging: false,

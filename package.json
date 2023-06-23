@@ -19,6 +19,8 @@
   "homepage": "https://github.com/reside-eng/take-home-assignment-nodejs-simplyrets#readme",
   "dependencies": {
     "body-parser": "1.20.2",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.0",
     "express": "4.18.2",
     "reflect-metadata": "0.1.13",
     "sqlite3": "5.1.6",
